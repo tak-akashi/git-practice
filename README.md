@@ -3,3 +3,4 @@
 ローカルリポで変更しています。  
 rebase-practiceブランチで更新(rebase用)
 rebase pull用
+stash練習
